@@ -1,16 +1,10 @@
-# intervencao
+# App Intervencao
 
-A new Flutter project.
+Intervenção is a Flutter-based field service management app designed to support technicians during on-site maintenance and repair visits.
+It provides a central workspace for each service order, displaying customer details, job status, and the work description. Technicians can manage intervention information, machine details, parts, faults, accessories, secondary technicians, working-time exclusions, expenses, replacement equipment, internal notes, transport document references, photos, sketches, and customer signatures. The app also includes options to add machines, create follow-up requests, and reschedule interventions.
+At its current stage, it is primarily a functional UI prototype with sample data and local interactions.
 
-## Getting Started
+How to see the app:
+- Go to /Downloads/intervencao/build/windows/x64/runner/Debug/intervencao.exe
+- Open the intervencao.exe
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
